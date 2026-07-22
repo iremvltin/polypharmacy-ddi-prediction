@@ -28,7 +28,7 @@ This project is a machine learning system that predicts the risk of adverse inte
 
 ### Live App
 
-https://polypharmacy-ddi-prediction-ff3lh34cmkqjhz6vkn2mpk.streamlit.app/
+https://polypharmacy-ddi-prediction-b2ayhagvznvivhfm3afapz.streamlit.app/
 
 ### Tech Stack
 
@@ -61,7 +61,7 @@ Bu proje, birden fazla ilacın birlikte kullanımında ortaya çıkabilecek olum
 
 ### Live App
 
-https://polypharmacy-ddi-prediction-ff3lh34cmkqjhz6vkn2mpk.streamlit.app/
+https://polypharmacy-ddi-prediction-b2ayhagvznvivhfm3afapz.streamlit.app/
 
 ### Kullanılan Teknolojiler
 
